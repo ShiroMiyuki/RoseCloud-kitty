@@ -1,4 +1,8 @@
-# Previews
+# RoséCloud
+
+**RoséCloud** is a beautifully crafted collection of color schemes for the Kitty terminal, inspired by the soft hues of cherry blossoms (sakura) and vibrant rainbow colors. The theme includes various styles: Soft, Warm, and Dark, each with unique palettes that enhance the terminal experience.
+
+## Previews
 
 ### 🌈 RoséCloud Rainbow
 
@@ -30,5 +34,3 @@
     <summary>🔥 RoséCloud Warm Sakura</summary>
     <img src="https://github.com/ShiroMiyuki/RoseCloud/blob/main/assets/Ros%C3%A9Cloud%20Warm%20Sakura.png" alt="RoséCloud Warm Sakura" style="max-width: 300px; border-radius: 8px;">
   </details>
-
-</div>
