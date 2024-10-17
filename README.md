@@ -50,7 +50,7 @@ Download the color scheme file and save it in the Kitty configuration folder:
 - **For Windows**: `%USERPROFILE%\.config\kitty\`
 
 ### 2. Renaming the File:
-After downloading, rename the file to `kitty.conf`.
+After downloading, rename the file to `kitty.conf`
 
 ### 3. Restarting Kitty:
 Once renamed, restart Kitty by closing it and reopening it to apply the changes.
