@@ -53,4 +53,4 @@ Download the color scheme file and save it in the Kitty configuration folder:
 After downloading, rename the file to `kitty.conf`
 
 ### 3. Restarting Kitty:
-Once renamed, restart Kitty by closing it and reopening it to apply the changes.
+Once renamed, restart Kitty by closing it and reopening it to apply the changes. 
